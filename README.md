@@ -48,17 +48,14 @@ pipe = RagPipeline(
 )
 ```
 
-#　3. Executive Dashboard & Benchmarking
+### 3. Executive Dashboard & Benchmarking
+
 Love-OS comes with a built-in offline benchmarking suite that generates a 5-chart executive dashboard, proving the ROI of "Surrendering Ego":
 
-Reliability Curve: Visualizes the reduction in Expected Calibration Error (ECE).
-
-Risk-Coverage (Selective Prediction): Proves that yielding (ABSTAIN) reduces critical risks.
-
-Latency Distribution: Verifies P99 stability via time-budgeted NLI.
-
-Conflict vs. Accuracy: Demonstrates massive accuracy lifts in highly disputed query zones.
-
+* **Reliability Curve:** Visualizes the reduction in Expected Calibration Error (ECE).
+* **Risk-Coverage (Selective Prediction):** Proves that yielding (`ABSTAIN`) reduces critical risks.
+* **Latency Distribution:** Verifies P99 stability via time-budgeted NLI.
+* **Conflict vs. Accuracy:** Demonstrates massive accuracy lifts in highly disputed query zones.
 Run the simulation:
 
 # 3. Materialize Reality
