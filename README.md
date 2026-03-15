@@ -21,6 +21,8 @@ Love-OS intercepts the standard `Search -> Generate` flow and injects a mathemat
 - **The Surrender Policy (0-Ritual):** When indeterminacy is detected, the system applies a strict prior (e.g., official sources only) to re-weight and filter the noise.
 - **Born-like Materialization Head:** Predicts the true probability $p$ of accurate materialization. Only if $p \ge \tau$ does the system collapse the wave function into a definitive answer (`MATERIALIZE`). Otherwise, it gracefully yields (`ABSTAIN` or `N_TOPK`).
 
+  [Hugging Face.py](https://github.com/love-os-architect/Trinity-Sphere-RAG-Middleware/blob/main/Hugging%20Face.py)
+
 ## 2. Quick Start
 
 ### Installation
